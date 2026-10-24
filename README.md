@@ -38,6 +38,7 @@ AI画像生成クリエイターとして活動しています。
 - [アイス(AI.s)](https://ai-ssr.com/users/hoshizoramochi)
 - [ちびキャラパレット](https://chibipalette.com/profile/hoshizoramochi) - ちびキャラ専用作品
 - [Adobe Stock](https://stock.adobe.com/jp/contributor/213615019/%E6%98%9F%E7%A9%BA%E3%83%A2%E3%83%81)
+- [pixabay](https://pixabay.com/ja/users/hoshizoramochi-36751837/)
 - [foriio](https://foriio.com/hoshizoramochi)
 - [Strikingly](https://hoshizoramochi.mystrikingly.com/)
 
