@@ -2,7 +2,6 @@
 
 AI画像生成クリエイターとして活動しています。
 
-
 東京都在住。プロのクリエイターを目指して日々コンテンツを発信中！
 
 <!--
@@ -22,7 +21,7 @@ AI画像生成クリエイターとして活動しています。
 ## 🌐 Blogs & SNS (メイン発信・情報)
 
 - 📒[note](https://note.com/hoshizoramochi) - 毎日更新中！AI画像生成の魅力を発信
-- 🏠[cozy note)(https://cozynote.fc2.page/) - 生活に役立つ情報をAI画像とともに発信
+- 🏠[cozy note](https://cozynote.fc2.page/) - 生活に役立つ情報をAI画像とともに発信
 - 🌟[Hoshizora AI log / 星空AIログ](https://hoshizoramochi.blogspot.com/)
 - 🕊️ [X](https://x.com/hoshizoramochi)
 - 🦋[Bluesky](https://bsky.app/profile/hoshizoramochi.bsky.social)
