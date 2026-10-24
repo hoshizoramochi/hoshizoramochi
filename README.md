@@ -31,6 +31,7 @@ AI画像生成クリエイターとして活動しています。
 - [pAInter](https://painter-ai.ai/ja/users/956f81b41e)
 - [Civitai (.com)](https://civitai.com/user/hoshizoramochi)
 - [ちちぷい](https://www.chichi-pui.com/users/hoshizoramochi/)
+- [Aipictors](https://www.aipictors.com/users/hoshizoramochi)
 - [pixiv](https://www.pixiv.net/users/109536998)
 - [SeaArt](https://www.seaart.ai/ja/user/96649d7e1db3ff1281a6d8b134c9828e)
 - [TensorArt](https://tensor.art/u/1036777382582745176)
