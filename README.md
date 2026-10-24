@@ -1,16 +1,8 @@
 # 👋 星空モチ | Hoshizora Mochi
 
-**AI画像生成クリエイター / AIイラストレーター**
+AI画像生成クリエイターとして活動しています。
 
-AIで、想像を一枚の作品に 🌌
-
-こんにちは、星空モチです！
-
-AI画像生成を楽しみながら、人物、幻想的な世界、アニメ風のイラストからリアルな表現まで、幅広い作品づくりに取り組んでいます。
-
-大切にしているのは、思い描いた世界を試行錯誤しながら形にしていくこと。
-
-AI画像生成の面白さや、作品を作る楽しさも発信しています。
+東京都在住。プロのクリエイターを目指して日々コンテンツを発信中！
 
 <!--
 
@@ -20,8 +12,6 @@ AI画像生成の面白さや、作品を作る楽しさも発信しています
 
 さまざまな表現や世界観を楽しんでいただけたらうれしいです。
 
-作品画像を追加したら、以下のコメントを外して画像のファイル名を合わせてください。
-
 ![作品01](images/work-01.webp)
 ![作品02](images/work-02.webp)
 ![作品03](images/work-03.webp)
@@ -30,16 +20,7 @@ AI画像生成の面白さや、作品を作る楽しさも発信しています
 
 ## 🎨 About Me
 
-**Name:** 星空モチ (Hoshizora Mochi)
+主にPCのローカル環境（RTX 4070 Ti SUPER / ComfyUI）で、ちびキャラからリアル系まで制作しています。
 
-**Activity:** AI画像生成・AIイラスト制作
-
-**Experience:** 趣味から始めたAI画像生成、約2年半
-
-**Environment:** ローカル環境 / ComfyUI
-
-**GPU:** NVIDIA GeForce RTX 4070 Ti SUPER
-
-AI画像生成に夢中になり、自作PCを組むほど制作を楽しんできました。
-
-試したことのない表現にも挑戦しながら、自分らしい作品づくりを続けています。
+* **Aipictors:** [https://www.aipictors.com/users/hoshizoramochi](https://www.aipictors.com/users/hoshizoramochi)
+* **chichi-pui:** [https://www.chichi-pui.com/users/hoshizoramochi/](https://www.chichi-pui.com/users/hoshizoramochi/)
