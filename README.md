@@ -31,10 +31,15 @@ AI画像生成の面白さや、作品を作る楽しさも発信しています
 ## 🎨 About Me
 
 **Name:** 星空モチ (Hoshizora Mochi)
+
 **Activity:** AI画像生成・AIイラスト制作
+
 **Experience:** 趣味から始めたAI画像生成、約2年半
+
 **Environment:** ローカル環境 / ComfyUI
+
 **GPU:** NVIDIA GeForce RTX 4070 Ti SUPER
+
 AI画像生成に夢中になり、自作PCを組むほど制作を楽しんできました。
 
 試したことのない表現にも挑戦しながら、自分らしい作品づくりを続けています。
