@@ -25,7 +25,7 @@ AI画像生成クリエイターとして活動しています。
 - 🦋[Bluesky](https://bsky.app/profile/hoshizoramochi.bsky.social)
 - 📸[Instagram](https://www.instagram.com/hoshizoramochi/)
 
-## 🎨 Portfolios & Galleries (AIイラスト作品)
+## 🎨 Portfolios & Galleries (AI画像作品)
 各AIイラスト投稿サイトおよびポートフォリオのギャラリーです。
 
 - [pAInter](https://painter-ai.ai/ja/users/956f81b41e)
@@ -37,6 +37,8 @@ AI画像生成クリエイターとして活動しています。
 - [TensorArt](https://tensor.art/u/1036777382582745176)
 - [アイス(AI.s)](https://ai-ssr.com/users/hoshizoramochi)
 - [ちびキャラパレット](https://chibipalette.com/profile/hoshizoramochi) - ちびキャラ専用作品
+- [ourtAI](https://ourt-ai.work/user/hoshizoramochi)
+- [Aniborn](https://aniborn.com/ja/hoshizoramochi)
 - [Adobe Stock](https://stock.adobe.com/jp/contributor/213615019/%E6%98%9F%E7%A9%BA%E3%83%A2%E3%83%81)
 - [pixabay](https://pixabay.com/ja/users/hoshizoramochi-36751837/)
 - [foriio](https://foriio.com/hoshizoramochi)
