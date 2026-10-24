@@ -1,6 +1,7 @@
-# 👋 星空モチ | Hoshizora Mochi
+# 👋 星空モチ (Hoshizora Mochi)
 
 AI画像生成クリエイターとして活動しています。
+
 
 東京都在住。プロのクリエイターを目指して日々コンテンツを発信中！
 
@@ -18,11 +19,58 @@ AI画像生成クリエイターとして活動しています。
 
 -->
 
-## 🎨 About Me
+## 🌐 Blogs & SNS (メイン発信・情報)
 
-主にPCのローカル環境（RTX 4070 Ti SUPER / ComfyUI）で、ちびキャラからリアル系まで制作しています。
+- 📒[note](https://note.com/hoshizoramochi) - 毎日更新中！AI画像生成の魅力を発信
+- 🏠[cozy note)(https://cozynote.fc2.page/) - 生活に役立つ情報をAI画像とともに発信
+- 🌟[Hoshizora AI log / 星空AIログ](https://hoshizoramochi.blogspot.com/)
+- 🕊️ [X](https://x.com/hoshizoramochi)
+- 🦋[Bluesky](https://bsky.app/profile/hoshizoramochi.bsky.social)
+- 📸[Instagram](https://www.instagram.com/hoshizoramochi/)
 
-* **Aipictors:** [https://www.aipictors.com/users/hoshizoramochi](https://www.aipictors.com/users/hoshizoramochi)
-* **chichi-pui:** [https://www.chichi-pui.com/users/hoshizoramochi/](https://www.chichi-pui.com/users/hoshizoramochi/)
-* **Adobe Stock:** [https://stock.adobe.com/jp/contributor/213615019/星空モチ](https://stock.adobe.com/jp/contributor/213615019/%E6%98%9F%E7%A9%BA%E3%83%A2%E3%83%81)
-* **:** []()
+## 🎨 Portfolios & Galleries (AIイラスト作品)
+各AIイラスト投稿サイトおよびポートフォリオのギャラリーです。
+
+- [pAInter](https://painter-ai.ai/ja/users/956f81b41e)
+- [Civitai (.com)](https://civitai.com/user/hoshizoramochi)
+- [ちちぷい](https://www.chichi-pui.com/users/hoshizoramochi/)
+- [pixiv](https://www.pixiv.net/users/109536998)
+- [SeaArt](https://www.seaart.ai/ja/user/96649d7e1db3ff1281a6d8b134c9828e)
+- [TensorArt](https://tensor.art/u/1036777382582745176)
+- [アイス(AI.s)](https://ai-ssr.com/users/hoshizoramochi)
+- [ちびキャラパレット](https://chibipalette.com/profile/hoshizoramochi) - ちびキャラ専用作品
+- [foriio](https://foriio.com/hoshizoramochi)
+- [Strikingly](https://hoshizoramochi.mystrikingly.com/)
+
+## 🔞 Adult Content (R-18 成人向け作品)
+ここから先は成人向けコンテンツを含みます。18歳未満の方の閲覧はご遠慮ください。
+
+<details>
+<summary><b>[クリックして展開] R-18作品・ギャラリーを見る</b></summary>
+<br>
+
+- [AI PICS LAB 【魅惑の大人グラビア】](https://aipicslab.blog.2nt.com/) - リアル・実写系AI美女のギャラリーサイト
+- [Civitai (.red)](https://civitai.red/user/hoshizoramochi)
+
+</details>
+
+## 🛒 Shops (グッズ・素材販売)
+AI生成画像素材や各種コンテンツを販売しています。
+
+- [BASE](https://mochiaiart.base.shop/)
+- [STORES](https://hoshizoramochi-works.stores.jp/)
+- [BOOTH](https://hoshizoramochi.booth.pm/)
+
+
+## 📖 Web Novels (過去の小説作品)
+過去に執筆・連載していたWeb小説作品のマイページ一覧です。
+
+- [TALES](https://tales.note.com/hoshizoramochi)
+- [小説家になろう](https://mypage.syosetu.com/2875724/)
+- [カクヨム](https://kakuyomu.jp/users/hoshizoramochi)
+- [NOVEL DAYS](https://novel.daysneo.com/author/hoshizoramochi/)
+
+
+## 🛠️ PC Spec & Environment (制作環境)
+- **OS:** Windows 11 pro
+- **GPU:** NVIDIA GeForce RTX 4070 Ti SUPER
