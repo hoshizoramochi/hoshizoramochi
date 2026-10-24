@@ -5,17 +5,15 @@ AI画像生成クリエイターとして活動しています。
 東京都在住。プロのクリエイターを目指して日々コンテンツを発信中！
 
 <!--
-
 ## 🖼️ My Works
 
-これまでに制作したAI画像の一部をご紹介します。
+制作したAI画像の一部をご紹介します。
 
 さまざまな表現や世界観を楽しんでいただけたらうれしいです。
 
 ![作品01](images/work-01.webp)
 ![作品02](images/work-02.webp)
 ![作品03](images/work-03.webp)
-
 -->
 
 ## 🌐 Blogs & SNS (メイン発信・情報)
@@ -53,7 +51,7 @@ AI画像生成クリエイターとして活動しています。
 
 </details>
 
-## 🛒 Shops (グッズ・素材販売)
+## 🛒 Shops (画像素材販売)
 AI生成画像素材や各種コンテンツを販売しています。
 
 - [BASE](https://mochiaiart.base.shop/)
@@ -61,8 +59,8 @@ AI生成画像素材や各種コンテンツを販売しています。
 - [BOOTH](https://hoshizoramochi.booth.pm/)
 
 
-## 📖 Web Novels (過去の小説作品)
-過去に執筆・連載していたWeb小説作品のマイページ一覧です。
+## 📖 Web Novels (過去のAI小説作品)
+過去にAIで創作した小説作品のマイページ一覧です。
 
 - [TALES](https://tales.note.com/hoshizoramochi)
 - [小説家になろう](https://mypage.syosetu.com/2875724/)
