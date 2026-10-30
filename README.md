@@ -21,7 +21,7 @@ AI画像生成クリエイターとして活動しています。
 - 📒[note](https://note.com/hoshizoramochi) - 毎日更新中！AI画像生成の魅力を発信
 - 🏠[cozy note](https://cozynote.fc2.page/) - 生活に役立つ情報をAI画像とともに発信
 - 🌟[Hoshizora AI log / 星空AIログ](https://hoshizoramochi.blogspot.com/)
-- 🕊️ [X](https://x.com/hoshizoramochi)
+- 🕊️[X](https://x.com/hoshizoramochi)
 - 🦋[Bluesky](https://bsky.app/profile/hoshizoramochi.bsky.social)
 - 📸[Instagram](https://www.instagram.com/hoshizoramochi/)
 
@@ -38,7 +38,7 @@ AI画像生成クリエイターとして活動しています。
 - [アイス(AI.s)](https://ai-ssr.com/users/hoshizoramochi)
 - [ちびキャラパレット](https://chibipalette.com/profile/hoshizoramochi) - ちびキャラ専用作品
 - [ourtAI](https://ourt-ai.work/user/hoshizoramochi)
-- [Aniborn](https://aniborn.com/ja/hoshizoramochi)
+- [Aniborn](https://aniborn.com/ja/hoshizoramochi) - 投稿停止中
 - [イロミライ](https://iromirai.jp/creators/hoshizoramochi) - 投稿停止中
 - [Adobe Stock](https://stock.adobe.com/jp/contributor/213615019/%E6%98%9F%E7%A9%BA%E3%83%A2%E3%83%81)
 - [pixabay](https://pixabay.com/ja/users/hoshizoramochi-36751837/)
@@ -50,7 +50,7 @@ AI画像生成クリエイターとして活動しています。
 
 <details>
 
-<summary><b>[クリックして展開] R-18作品・ギャラリーを見る</b></summary>
+<summary><b>[タップして展開] R-18作品・ギャラリーを見る</b></summary>
 <br>
 
 - [AI PICS LAB 【魅惑の大人グラビア】](https://aipicslab.blog.2nt.com/) - リアル・実写系AI美女のギャラリーサイト
