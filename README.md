@@ -28,7 +28,7 @@ AI画像生成クリエイターとして活動しています。
 ## 🎨 Portfolios & Galleries (AI画像作品)
 各AIイラスト投稿サイトおよびポートフォリオのギャラリーです。
 
-- [pAInter](https://painter-ai.ai/ja/users/956f81b41e)
+- [pAInter](https://painter-ai.ai/ja/users/956f81b41e) - 最初に始めた投稿サイト
 - [Civitai (.com)](https://civitai.com/user/hoshizoramochi)
 - [ちちぷい](https://www.chichi-pui.com/users/hoshizoramochi/)
 - [Aipictors](https://www.aipictors.com/users/hoshizoramochi)
